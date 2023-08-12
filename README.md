@@ -33,3 +33,9 @@ object programacionConObjetos {
 * [Guía Ràpida](https://greg.schueler.us/doc/markdown.txt) de la sintaxis _(en inglés)_
 
 * [Emojis!](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) :sunglasses:
+
+## Presentacion Personal
+* Me llamo Sebastian Di Tucci
+* Me gusta programar y jugar a los jueguitos
+* Estudio programacion en la unahur
+* ![Imagen](.\Pictures\image[64].jpg")
