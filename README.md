@@ -38,4 +38,4 @@ object programacionConObjetos {
 * Me llamo Sebastian Di Tucci
 * Me gusta programar y jugar a los jueguitos
 * Estudio programacion en la unahur
-* ![Imagen](.\Pictures\image[64].jpg")
+* ![Imagen]("C:\Users\sebas\Pictures\image[64].jpg")
