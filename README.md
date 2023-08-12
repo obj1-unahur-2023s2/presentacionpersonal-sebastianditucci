@@ -35,7 +35,7 @@ object programacionConObjetos {
 * [Emojis!](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) :sunglasses:
 
 ## Presentacion Personal
-* Me llamo Sebastian Di Tucci
-* Me gusta programar y jugar a los jueguitos
+* Me llamo Sebastian Di Tucci, tengo 19 años
+* Me gusta la musica, programar, jugar a la play y hacer taekwondo
 * Estudio programacion en la unahur
 * ![Imagen]("C:\Users\sebas\Pictures\image[64].jpg")
